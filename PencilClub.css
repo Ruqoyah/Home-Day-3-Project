@@ -1,21 +1,51 @@
-
-.col-sm-4 {
-	text-align: center;
+#logo{
+	max-width: 500px;
+	margin: auto;
+	margin-right: 200px;
+    margin-left: 800px
 }
 
 h3 {
 	font-size: 14pt;
+	max-width: 500px;
+	margin: auto;
+	margin-right: 50px;
+    margin-left: 800px;
 }
 
 .introduction {
 	font-size: 14pt;
+	max-width: 500px;
+	text-align:right;
+	margin-right: 50px;
+    margin-left: 800px;
 }
 
 #container {
   	background: url("https://d1yn1kh78jj1rr.cloudfront.net/preview/indian-flag-butterfly-on-creative-background_fkFLc_iO_M.jpg") no-repeat center center fixed;
-  	text-align: right;
-	background-size: cover;
+  	text-align:right;
+  	background-size: cover;
 	height: 800px;
 	width: 100%;
 	margin: 0;
+}
+#address {
+	font-size: 12pt;
+	max-width: 500px;
+	margin: auto;
+	margin-right: 50px;
+    margin-left: 800px;
+}
+#phonenumber {
+	font-size: 12pt;
+	max-width: 500px;
+	margin: auto;
+	margin-right: 50px;
+    margin-left: 800px;
+}
+.flyersdesign1 {
+	max-width: 500px;
+	margin: auto;
+	margin-right: 50px;
+    margin-left: 800px;
 }
